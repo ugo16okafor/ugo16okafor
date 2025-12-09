@@ -1,9 +1,30 @@
-Hi there! 👋 I'm Ugochukwu.
+# Ugochukwu Okafor
 
-![90s-reactions](https://github.com/user-attachments/assets/ef313141-f608-4da5-a18f-413900885e56)
+**Senior Embedded Software Engineer** 📍 Lagos, Nigeria
 
-🎨 Passionate about graphic design and frontend development
-🚀 Currently learning React and Tailwind, crafting interactive web experiences
-🎮 Love building creative web projects, games, and intuitive UI/UX designs
-🤝 Open to collaborations on innovative digital experiences
-📫 Reach me at ugo16okafor@gmail.com
+<br>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJpbDRsZmx6aWF4YmZpdm5qZW04aGZqcmd5eXN4dG94dndhMXV6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UYBDCJjwOd9Re/giphy.gif" width="600" alt="Embedded Systems Animation" />
+</div>
+<br>
+
+I am a software engineer with 5 years of experience building reliable embedded systems. My passion lies in squeezing performance out of microcontrollers and bridging the gap between hardware and software using Linux and modern embedded tools.
+
+### 💼 What I Do
+* **Firmware Development:** Specialized in C/C++ for embedded targets including **STM32** and **ESP32**.
+* **Connectivity & IoT:** Extensive experience implementing **MQTT**, **BLE**, **Wi-Fi**, and **CAN** bus communication for industrial and consumer applications.
+* **Hardware Design:** Comfortable designing PCBs and reading schematics using **KiCad** and **EasyEDA**.
+* **Linux & Terminal:** Power user of Linux environments for build systems and automation.
+
+### 🧰 Toolkit
+* **Languages:** C, C++, Python, Bash
+* **Protocols:** I2C, SPI, UART, CAN, MQTT, BLE
+* **EDA Tools:** KiCad, EasyEDA
+* **OS:** Linux (Ubuntu/Debian), FreeRTOS, Bare Metal
+
+<br>
+
+---
+<div align="center">
+  📫 <b>Contact:</b> <a href="mailto:ugo16okafor@gmail.com">ugo16okafor@gmail.com</a>
+</div>
