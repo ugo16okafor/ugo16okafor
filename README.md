@@ -1,6 +1,6 @@
 # Ugochukwu Okafor
 
-**Senior Embedded Software Engineer** 📍 Lagos, Nigeria
+**Embedded Systems Engineer** 📍 Lagos, Nigeria
 
 <br>
 <div align="center">
@@ -8,7 +8,7 @@
 </div>
 <br>
 
-I am a software engineer with 5 years of experience building reliable embedded systems. My passion lies in squeezing performance out of microcontrollers and bridging the gap between hardware and software using Linux and modern embedded tools.
+I am a systems engineer with 5 years of experience building reliable embedded systems. My passion lies in squeezing performance out of microcontrollers and bridging the gap between hardware and software using Linux and modern embedded tools.
 
 ### 💼 What I Do
 * **Firmware Development:** Specialized in C/C++ for embedded targets including **STM32** and **ESP32**.
