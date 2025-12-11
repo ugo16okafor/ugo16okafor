@@ -4,7 +4,7 @@
 
 <br>
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Circuit_Soldering.gif" width="600" alt="Soldering Circuit Animation" />
+  <img src="https://tenor.com/sha05R97Kve.gif" width="600" alt="Soldering Circuit Animation" />
 </div>
 <br>
 
