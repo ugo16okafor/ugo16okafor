@@ -4,7 +4,7 @@
 
 <br>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJpbDRsZmx6aWF4YmZpdm5qZW04aGZqcmd5eXN4dG94dndhMXV6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UYBDCJjwOd9Re/giphy.gif" width="600" alt="Embedded Systems Animation" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Circuit_Soldering.gif" width="600" alt="Soldering Circuit Animation" />
 </div>
 <br>
 
